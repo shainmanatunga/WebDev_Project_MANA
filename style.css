@@ -15,3 +15,9 @@ head
    font-family: monospace;
     color:blue
 }
+
+p
+{
+    text-align: center;
+    color: red;
+}
