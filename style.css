@@ -28,15 +28,17 @@ button
     color:red
 }
 
-html, body {
+html, body 
+{
     margin: 0;
     padding: 0;
     width: 100%;
     min-height: 100%;
 }
 
-body {
-    background-image: url(mmm);
+body 
+{
+    background-image: url("https://images.unsplash.com/photo-1654356138361-323a2ebc6890?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJtdyUyMDFtfGVufDB8fDB8fHww";)
     background-size: 100% auto;
     background-position: top center;
     background-repeat: no-repeat;
