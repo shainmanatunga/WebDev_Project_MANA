@@ -55,11 +55,9 @@ footer
     padding-bottom: 20px;
 }
 
-#firstOne
+#withpadding
 {
-    border-width: 5px;
-    border-color: white;
-    border-style: solid;
-    box-sizing: border-box;
-    border-radius: 10px;
+  border: 5px solid grey;
+  width: 300px;
+  padding: 10px;
 }
