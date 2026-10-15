@@ -57,7 +57,12 @@ footer
 
 #withPadding
 {
-  border: 5px solid grey;
+  border: 5px solid red;
   width: 300px;
   padding: 10px;
+}
+
+.redHeading
+{
+  background-color: red;
 }
