@@ -58,6 +58,7 @@ footer
 #withpadding
 {
   border: 5px solid grey;
+ border-radius: 10px
   width: 300px;
   padding: 10px;
 }
